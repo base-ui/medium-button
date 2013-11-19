@@ -1,0 +1,10 @@
+.ui.button.medium {
+  padding: 0 14px;
+  font-size: 14px;
+  height: 42px;
+  line-height: 42px;
+}
+.ui.button.medium.compact {
+  height: 28px;
+  line-height: 28px;
+}
